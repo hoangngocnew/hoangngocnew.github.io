@@ -1,0 +1,46 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+a.btn.btn-light.opacity {
+    background: transparent;
+    color: white;
+}
+a.btn.btn-light.opacity:hover{
+	background-color: white;
+	color: black;
+}
+
+a.btn.btn-light.opacity {}
+
+img.none {
+		padding-top: 5%;
+		width: 15%;
+}
+
+.logo-menu {
+	background: transparent;
+	position: fixed;
+	z-index: 100;
+	width: 70%;
+	left: 5%;
+
+}
+
+nav.navbar.navbar-expand-lg.navbar-light.bg-light.float-right.menu {
+	padding: 5%;
+	background: transparent !important;
+}
+
+.navbar.navbar-expand-lg.navbar-light.bg-light.float-right.menu .textcolor{
+	margin-left:30px;
+	color: gray;
+	font-family: 'Pridi', serif;
+	font-size: 18px;
+}
+	.navbar-toggler.show{
+	  background-color: grey;
+	}
+
+
